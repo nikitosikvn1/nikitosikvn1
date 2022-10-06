@@ -27,12 +27,3 @@ I'm in my second year of studying software engineering, interested in back-end d
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg"/>
 <br>
-
-#
-
-### 📊 Stats
-<!-- STATS BLOCK -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/?username=nikitosikvn1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitosikvn1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
-</div>
