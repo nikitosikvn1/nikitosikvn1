@@ -1,29 +1,23 @@
 <!-- INFO BLOCK -->
-# 👾 Nikita Petrykin
+# :waning_crescent_moon: Nikita Petrykin
 
 **`Student of the Kyiv Polytechnic Institute, IM-12`**
 
-I'm in my second year of studying software engineering, interested in back-end development and network administration.
+- I'm in my second year of studying software engineering, interested in back-end development and network administration
 
-<p align="center">
-  <a href="https://t.me/nikitosikvn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://discord.com/users/528946389888139265/"><img src="https://img.shields.io/badge/Discord-2C77E0?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://nvnwebf01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/qr/WT53N3DFRO67G1"><img src="https://img.shields.io/badge/WhatsApp-2BAD4C?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikitosikvn_) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/nikitosikvn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](https://nvnwebf01@gmail.com)
   
 ---
 <!-- LANGUAGES BLOCK -->
-### 🧰 Languages and Tools
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
-<img align="left" alt="Django" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg"/>
-<img align="left" alt="JavaScipt" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg"/>
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-plain.svg"/>
-<img align="left" alt="Sass" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg"/>
-<br>
+<details>
+  <summary>📊 GitHub Stats:</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitosikvn1&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitosikvn1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</details>
